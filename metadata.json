@@ -1,0 +1,9 @@
+{
+  "name": "Safe Haven",
+  "description": "Personal Safety & Emergency Assistance App with SOS, Live Location Sharing, and Incident Reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
